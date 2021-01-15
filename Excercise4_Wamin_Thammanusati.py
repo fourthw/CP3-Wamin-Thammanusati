@@ -8,3 +8,7 @@ print("Foundation English :", a)
 print("General Business :", b)
 print("Introduction to Computer System :", c)
 print("Computer Programming :", d)
+
+userName = 10
+password = 1
+

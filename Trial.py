@@ -4,3 +4,6 @@ print(a)
 b = "10"
 c = int(b)
 print(c)
+d = input("Please insert")
+print(type(d))
+
